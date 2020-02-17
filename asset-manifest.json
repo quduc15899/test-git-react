@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quduc15899/test-git-react.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/quduc15899/test-git-react.git/static/js/main.72b9c654.chunk.js",
+    "main.js.map": "/quduc15899/test-git-react.git/static/js/main.72b9c654.chunk.js.map",
+    "runtime-main.js": "/quduc15899/test-git-react.git/static/js/runtime-main.9cbc7b6e.js",
+    "runtime-main.js.map": "/quduc15899/test-git-react.git/static/js/runtime-main.9cbc7b6e.js.map",
+    "static/js/2.aecb8221.chunk.js": "/quduc15899/test-git-react.git/static/js/2.aecb8221.chunk.js",
+    "static/js/2.aecb8221.chunk.js.map": "/quduc15899/test-git-react.git/static/js/2.aecb8221.chunk.js.map",
+    "index.html": "/quduc15899/test-git-react.git/index.html",
+    "precache-manifest.f25499e8bf01a81647df413732c9cab1.js": "/quduc15899/test-git-react.git/precache-manifest.f25499e8bf01a81647df413732c9cab1.js",
+    "service-worker.js": "/quduc15899/test-git-react.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/quduc15899/test-git-react.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.aecb8221.chunk.js.LICENSE.txt": "/quduc15899/test-git-react.git/static/js/2.aecb8221.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/quduc15899/test-git-react.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cbc7b6e.js",
+    "static/js/2.aecb8221.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.72b9c654.chunk.js"
+  ]
+}
